@@ -1,0 +1,99 @@
+@charset "utf-8";
+.bg-dark {
+    background-color: #BBCDE5
+!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF;
+    font-family: Source Sans Pro;
+    text-align: center;
+    font-size: small;
+}
+.navbar-dark .navbar-nav .nav-link:hover  {
+    color: #000000;
+    font-family: Source Sans Pro;
+    text-align: center;
+    font-size: small;
+}
+.navbar-nav .nav-item {
+    width: 108px;
+    border: 1px solid #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+}
+.navbar-nav .nav-item:hover  {
+    background-image: -webkit-linear-gradient(90deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: -moz-linear-gradient(90deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: -o-linear-gradient(90deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+    background-image: linear-gradient(0deg,rgba(231,236,236,1.00) 0%,rgba(91,82,56,1.00) 100%);
+}
+header h2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #635A52;
+    font-size: 51px;
+    text-shadow: 0px 5px 11.05px rgba(0,0,0,0.50);
+    letter-spacing: 0.12em;
+    text-align: center;
+    margin-top: 1em;
+}
+header p {
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    font-family: source-sans-pro;
+    text-shadow: 0px 3px 5.95px rgba(0,0,0,0.50);
+    letter-spacing: 0.4em;
+    font-weight: 700;
+    font-size: 200%;
+    line-height: 1em;
+}
+header {
+    background-color: #2D4654;
+    background-image: url(Fav.%20brands%20assignment/scroll.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: 90% 400px;
+}
+nav .container {
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(0,0,0,1.00);
+}
+body {
+    border-right: 15px solid #BBCDE5;
+    border-left: 15px solid #BBCDE5;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+footer {
+    padding-top: 5px;
+    color: #4E4D5C;
+    background-color: #BBCDE5;
+}
+table {
+    width: 320px;
+    height: 320px;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+td, th {
+    padding: 4px;
+    text-align: left;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-top-width: 2px;
+}
+th {
+    border-bottom: thick
+#;
+    border-bottom: thick solid #243B4A;
+    border-right: thick solid #243B4A;
+}
+td {
+    border: thin dashed #000000;
+}
